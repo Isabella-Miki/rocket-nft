@@ -1,0 +1,9 @@
+.liHoverEffect {
+    transition: 0.3s;
+}
+
+.liHoverEffect:hover {
+    cursor: pointer;
+    transition: 0.3s;
+    color: white;
+}

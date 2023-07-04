@@ -1,0 +1,12 @@
+.cardEffect {
+  transition: 0.3s;
+  background-color: #252525;
+  color:  var(--color-logo);
+}
+
+.cardEffect:hover {
+  transition: 0.3s;
+  background-color: var(--color-logo);
+  color: white;
+}
+
